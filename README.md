@@ -22,3 +22,7 @@ Contact:
 * Unity Asset Store: https://assetstore.unity.com/publishers/32235
 * Itch.io page: https://stefanjo.itch.io/
 
+![Example 01](https://i.imgur.com/c0I6ilo.png)
+![Example 02](https://i.imgur.com/iGROj0O.png)
+![Example 03](https://i.imgur.com/23NWYVU.png)
+
