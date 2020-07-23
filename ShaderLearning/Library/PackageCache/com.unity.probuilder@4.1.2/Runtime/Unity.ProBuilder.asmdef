@@ -1,0 +1,16 @@
+{
+    "name": "Unity.ProBuilder",
+    "references": [
+        "Unity.ProBuilder.Poly2Tri",
+        "Unity.ProBuilder.KdTree"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
