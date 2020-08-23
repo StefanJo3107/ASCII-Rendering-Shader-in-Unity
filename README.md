@@ -1,6 +1,8 @@
 # ASCII Rendering Shader in Unity
  Unity Image Effect that replicates retro ASCII rendering seen in games such as Rogue and Dwarf Fortress!
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X223BQX)
+
 Simply start by adding ASCIIRendering script to your camera Game Object.
 
 Variables Description:
